@@ -1,0 +1,25 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl lem_glass
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\180426.IDEAS\\Desktop\\阿蓮國小模型\\poly\\Lemonade\\Lemonade.png
+map_d C:\\Users\\180426.IDEAS\\Desktop\\阿蓮國小模型\\poly\\Lemonade\\Lemonade.png
+
+newmtl lem_ice
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\180426.IDEAS\\Desktop\\阿蓮國小模型\\poly\\Lemonade\\Lemonade.png

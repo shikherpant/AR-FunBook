@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Xx" size="9.000000 12.622721" />
+    <ImageTarget name="Tt" size="9.000000 12.627907" />
+    <ImageTarget name="Dd" size="9.000000 12.798817" />
+    <ImageTarget name="Zz" size="9.000000 12.545455" />
+    <ImageTarget name="Yy" size="9.000000 13.004158" />
+    <ImageTarget name="Ww" size="9.000000 13.025316" />
+    <ImageTarget name="Vv" size="9.000000 12.938731" />
+    <ImageTarget name="Uu" size="9.000000 12.745341" />
+    <ImageTarget name="Ss" size="9.000000 12.930613" />
+    <ImageTarget name="Rr" size="9.000000 12.581053" />
+    <ImageTarget name="Qq" size="9.000000 12.667323" />
+    <ImageTarget name="Pp" size="9.000000 12.862423" />
+    <ImageTarget name="Oo" size="9.000000 12.646552" />
+    <ImageTarget name="Nn" size="9.000000 12.903158" />
+    <ImageTarget name="Mm" size="9.000000 12.942000" />
+    <ImageTarget name="Ll" size="9.000000 12.655102" />
+    <ImageTarget name="Kk" size="9.000000 12.367865" />
+    <ImageTarget name="Jj" size="9.000000 12.829787" />
+    <ImageTarget name="Ii" size="9.000000 12.789474" />
+    <ImageTarget name="Hh" size="9.000000 12.801724" />
+    <ImageTarget name="Gg" size="9.000000 12.664165" />
+    <ImageTarget name="Ff" size="9.000000 12.634989" />
+    <ImageTarget name="Ee" size="9.000000 12.574596" />
+    <ImageTarget name="Cc" size="9.000000 12.762295" />
+    <ImageTarget name="Bb" size="9.000000 12.736526" />
+    <ImageTarget name="Aa" size="10.000000 13.800539" />
+  </Tracking>
+</QCARConfig>
