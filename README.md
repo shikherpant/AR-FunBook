@@ -1,6 +1,6 @@
 # AR-FunBook
 An Augmented Reality based android application use for teaching kids in an innovative way.</br>
-<i>Skills/Tools required : Augmented Reality,Unity3D,Blender,c#</br>
+<i>Skills/Tools required : Augmented Reality,Unity3D,Blender,c#</br></i>
 
 # How to use:
         - Download the application "AR FunBook.apk".
