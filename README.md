@@ -7,7 +7,7 @@ An Augmented Reality based android application use for teaching kids in an innov
         - Download "ImageTargets.pdf" in other device.
         - Install and Open application.
         - Click on "Enter AR-Mode" and start scanning the "ImageTargets.pdf".
-        - Demo Video: <ahref>https://youtu.be/ks-bni2t5tk</ahref>
+        - Demo Video: <a href="https://youtu.be/ks-bni2t5tk">Click here</a>
         
 Thanks in advance for any kind of contribution. All the code in this repository is free and open to copy and/or change UNTIL AND UNLESS proper credits are given. The first 2 lines of the major files are restricted to be changed in respect for credits and should remain intact if the file is used. If any part of any file is used then credits should be properly given in the respective file which should include the following information: 
 
@@ -15,6 +15,6 @@ Thanks in advance for any kind of contribution. All the code in this repository 
 - https://github.com/shikherpant
 
 Other Credits:</br>
-    <pre><li>App UI - Adobe Spark</li></br>
-    <li>3D Models - Poly by google</li></ul></pre></i>
+- App UI - Adobe Spark
+- 3D Models - Poly by google
 
